@@ -46,5 +46,3 @@ def update(id,title,author,year,isbn):
 
 
 connect()
-update(4, "The moon", "John Smooth", 1917, 99999)
-print(view())
